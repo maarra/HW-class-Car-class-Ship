@@ -1,0 +1,11 @@
+9 part1 Task 1
+Implement a class Car. Class fields should store the following:
+model, year of release, manufacturer, engine capacity, color, price.
+Implement class methods for data input and output, provide access to individual fields through class methods.
+
+9 part4/Task 2
+Create a Ship class containing information about a ship.
+Use inheritance to implement a Frigate class (contains
+info about a frigate), a Destroyer class (contains info about
+a destroyer), a Cruiser class (contains info about a cruiser).
+Each class must have the required methods.
